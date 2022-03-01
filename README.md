@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakatazizkhan
-- 👀 I’m interested in React JS, GoLang, Traveling, Learning new skills
+- 👀 I’m interested in Data Science, AI/ML, Traveling, Learning new skills
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Developer
+- 💞️ I’m looking to collaborate on Start-up Idean & Developer
 - 📫 How to reach me : sakatazizkhan1@gmail.com
 
 <!---
